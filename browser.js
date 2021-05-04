@@ -33,6 +33,8 @@ try {
         Blockly.setLocale(require('./lib/i18n/it'))
 	else if(language == 'pl')
         Blockly.setLocale(require('./lib/i18n/pl'))
+	else if(language == 'zh')
+        Blockly.setLocale(require('./lib/i18n/zh-hans'))
     else
         Blockly.setLocale(require('./lib/i18n/en'))
 }
