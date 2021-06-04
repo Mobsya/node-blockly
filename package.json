@@ -1,6 +1,6 @@
 {
   "name": "@mobsya-association/node-blockly",
-  "version": "1.4.7",
+  "version": "1.4.8",
   "description": "Blockly for Node.js and Browser as CommonJS module",
   "main": "index.js",
   "directories": {
